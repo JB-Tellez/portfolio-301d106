@@ -1,3 +1,5 @@
 # Modify this portfolio
 
-Make it your own! 
+All about JB
+
+[Live Site](https://jb-portfolio-301d106.netlify.app/)
